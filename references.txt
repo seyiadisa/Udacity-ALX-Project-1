@@ -1,0 +1,13 @@
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+The pandas documentation at https://pandas.pydata.org/docs/reference/index.html#api
+
+Matplotlib documentation at https://matplotlib.org/stable/api/index.html
+
+https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
+
+https://stackoverflow.com/questions/51080491/matplotlib-how-to-change-figsize-for-double-bar-plot
+
+https://gist.github.com/SohierDane/4a84cb96d220fc4791f52562be37968b
+
+https://stackoverflow.com/questions/10369681/how-to-plot-bar-graphs-with-same-x-coordinates-side-by-side-dodged
